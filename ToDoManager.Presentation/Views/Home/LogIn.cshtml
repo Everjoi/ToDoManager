@@ -1,0 +1,31 @@
+﻿@* @addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers *@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/corner.css">
+    <link rel="stylesheet" href="/css/main.css">
+    <title>Login</title>
+</head>
+<body class="standard">
+
+    <div id="header">
+        <h1 id="title">Log In</h1>
+    </div>
+     
+    <form id="form" method="post">
+        <input name="Email" class="standard-input" type="email" placeholder="Email">
+        <input name="Password" class="standard-input" type="password" placeholder="Password">
+        <button class="standard-button" type="submit">Login</button>
+    </form>
+
+    <div id="myUnOrdList">
+        <ul class="todo-list">
+            <p id="loginMessage">Not registered yet? <a href="home/signup" onclick="showRegistrationForm()">Register here.</a></p>
+        </ul>
+    </div>
+    
+</body>
+</html>
