@@ -17,3 +17,18 @@ Some error shows like text
 ![image](https://github.com/Everjoi/ToDoManager/assets/108404720/b0cdfe1e-d1de-4cbc-a14e-33059bf9781d)
 
 ![image](https://github.com/Everjoi/ToDoManager/assets/108404720/cf699020-4f23-4573-93fb-eba842d06a95)
+
+PARTIALLY IMPLEMENTED
+- Task delete (implement only backend)
+- Task edit (implement only backend)
+- Pagination (implement only beckend)
+
+ARCHITECTURE
+- Clear Architecture
+- MVC
+- Swagger documentation
+- Unit of Work
+- Repository
+- Using Autofac
+- Using Fluen Validation
+  
