@@ -12,7 +12,7 @@ Main Work Page
 
 ![image](https://github.com/Everjoi/ToDoManager/assets/108404720/ca8f30b5-2b6c-4935-bde5-5fd55926895f)
 
-Some error shows like json 
+Some error shows like text
 
 ![image](https://github.com/Everjoi/ToDoManager/assets/108404720/b0cdfe1e-d1de-4cbc-a14e-33059bf9781d)
 
